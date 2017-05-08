@@ -10,7 +10,7 @@ We require a UNIX-based system with Python3 and Pip installed.
 	Type in the sudo password where required.
 3. After the prerequistes are installed, to run the application type in the following:
 	```python3 app.py```
-4. Go to your browser and surf to the `localhost`.
+4. Go to your browser and surf to the `localhost:8000`.
 Voila!
 
 ## Functionalities/Features
