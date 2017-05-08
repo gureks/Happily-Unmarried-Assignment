@@ -6,10 +6,10 @@ We require a UNIX-based system with Python3 and Pip installed.
 
 1. Open terminal.
 2. Copy-paste the following:
-	```sudo pip3 install -r requirements.txt1```
+	```sudo pip3 install -r requirements.txt```
 	Type in the sudo password where required.
 3. After the prerequistes are installed, to run the application type in the following:
-	```python3 app.py``
+	```python3 app.py```
 4. Go to your browser and surf to the `localhost`.
 Voila!
 
